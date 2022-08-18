@@ -1,4 +1,4 @@
-# differentProjects
+# Excel File Reader
 This repository keeps track of different projects in different branches
 
 This project was written to read excel files. The project was written entirely in Java.
